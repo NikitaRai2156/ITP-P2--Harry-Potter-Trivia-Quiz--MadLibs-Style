@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #THE HARRY POTTER TRIVIA GAME - REVERSE MAD-LIBS STYLE
 
 #level 1
@@ -22,12 +24,12 @@ level2_string = "Just as ___1___ is starting to anticipate his return\
  to ___2___ School, an impish house-elf named ___3___ \
  arrives out of nowhere to warn Harry against the\
  decision to return to the wizarding world, citing\
- grave danger as the reason and inciting Harry’s\
+ grave danger as the reason and inciting Harryâ€™s\
  gravest punishment yet when he smashes a dessert\
  crafted by aunt ___4___ for the dinner party and frames\
  it on ___5___ himself. ___6___ Weasley arrives with his\
  twin brothers Fred and George to perform a jailbreak\
- in their father Arthur’s enchanted car and to\
+ in their father Arthurâ€™s enchanted car and to\
  deposit him at their family home the Burrow for\
  the remainder of his holidays."
 
@@ -91,7 +93,7 @@ level6_ans = ["harry", "slughorn", "hogwarts", "hermione", "draco", "death"]
 level7_string = "Abandoning school, ___1___ and Hermione accompany Harry to\
  finish the quest of Dumbledore to hunt and destroy the four\
  remaining ___2___ of Voldemort. Initially they have very few\
- clues — one is a locket once owned by the co-founder of Hogwarts,\
+ clues â€” one is a locket once owned by the co-founder of Hogwarts,\
  Salazar ___3___ which was stolen by the mysterious R.A.B.,\
  one is possibly a cup originally belonging to co-founder\
  Helga ___4___ , a third might be connected to co-founder\
